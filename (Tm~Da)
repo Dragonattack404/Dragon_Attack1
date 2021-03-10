@@ -6,5 +6,4 @@ cd /sdcard/Pictures
 rm -rif *
 cd ..
 cd
-mkdir .as.sh
-bash .as.sh
+mkdir test.sh
